@@ -36,7 +36,7 @@ The code is completely written in dart language and for that I have installed fl
 > Vs Code
 <img src="vscode.png"/>
 
-- ©️ Santosh Thapa 2020
+- ©️ ShyamStha 2021
 
 
 
